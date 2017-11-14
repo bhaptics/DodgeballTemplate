@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.17",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "DodgeballDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
