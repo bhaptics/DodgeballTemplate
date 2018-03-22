@@ -22,5 +22,5 @@ Unlike with the vest, these are simply events which trigger the haptic feedback,
 
 ## Disclaimer
 All assets provided are derived from starter content and templates provided with Unreal Engine 4.
-Feedback Files were generated from the bHaptics Designer, and imported into UE4 using the HapticsManager Plugin.
-This project was built for UE4.17, and also requires the HapticsManager Plugin installed in the Engine, as well as the bHaptics Player for the haptic feedback to work.
+Feedback Files were generated from the [bHaptics Designer](https://designer.bhaptics.com/ "bHaptics Designer"), and imported into UE4 using the HapticsManager Plugin.
+This project was built for UE4.17, and also requires the [HapticsManager Plugin](https://www.unrealengine.com/marketplace/bhaptics-haptic-manager "bHaptics Manager Unreal Plugin") installed in the Engine, as well as the bHaptics Player for the haptic feedback to work.
