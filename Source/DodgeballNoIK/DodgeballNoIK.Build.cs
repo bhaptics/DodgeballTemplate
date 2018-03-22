@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class DodgeballDemo : ModuleRules
+public class DodgeballNoIK : ModuleRules
 {
-	public DodgeballDemo(ReadOnlyTargetRules Target) : base(Target)
+	public DodgeballNoIK(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

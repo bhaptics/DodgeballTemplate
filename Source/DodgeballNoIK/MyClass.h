@@ -7,7 +7,7 @@
 /**
  * 
  */
-class DODGEBALLDEMO_API MyClass
+class DODGEBALLNOIK_API MyClass
 {
 public:
 	MyClass();
